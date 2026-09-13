@@ -10,11 +10,9 @@ Vite, React, wagmi, viem, RainbowKit, Ethereum Sepolia.
 Contrato:
 ObraDigitalTwin — 0x44De8ed096eFADB08f2A24B4De568C620cAe9699 (Sepolia)
 
-Repo GitHub:
-[pegar enlace]
+Repo GitHub: https://github.com/shellyACL/Iskay-Gemelos-Digitales
 
-Video demo:
-[pegar enlace]
+Video demo: https://youtube.com/shorts/KDvKHsiL-3U?feature=share
 
 Cómo probar:
 
